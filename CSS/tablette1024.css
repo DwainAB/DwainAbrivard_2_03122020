@@ -1,0 +1,178 @@
+/*En-tête*/
+#top
+{
+flex-direction: column;
+align-items: center;
+font-size: 20px;
+}
+
+.logo
+{
+width: 150px;
+}
+
+h1 
+{
+text-align: center;
+}
+
+h2
+{
+text-align: center;
+}
+
+.search
+{
+margin-left: 250px;
+}
+
+button
+{
+position: absolute;
+left: 600px;
+}
+
+i[class*="map"]
+{
+left: 270px;
+}
+
+.filter
+{
+    margin-left: 40px;
+}
+/*info*/
+
+.info
+{
+text-align: center;
+}
+
+/*Hébergements populaires*/
+
+.title-popu
+{
+position: absolute;
+top: -50px;
+left: 310px;
+}
+
+.title-popu i
+{
+margin-left: 130px;
+}
+
+.popular
+{
+width: 900px;
+height: 300px;
+overflow: auto;
+flex-direction: row;
+margin-right: -25px;
+background-color: white;
+margin-top: 100px;
+margin-right: 10px;
+}
+
+.room_popular img
+{
+width: 200px;
+height: 180px;
+}
+
+
+.room_popular
+{
+width: 410px;
+height: 180px;
+margin-top: 70px;
+box-shadow: 0px 0px 10px #f2f2f2;
+}
+
+/*Hébergement à Marseille*/
+
+.accommodation
+{
+margin-top: 360px;
+margin-left: 30px;
+width: 950px;
+}
+
+.title-acco
+{
+margin-left: 250px;
+}
+
+.room img
+{
+width: 230px;
+height: 130px;
+}
+
+.room
+{
+width: 230px;
+height: 210px;
+}
+
+/*Activité*/
+
+#activites
+{
+margin-left: 380px;
+}
+.activity img
+{
+height: 250px;
+}
+
+.activ4
+{
+margin-right: -1850px;
+}
+
+.activ3
+{
+margin-right: -1320px;
+}
+
+.activ2
+{
+margin-left: 850px;
+width: 500px;
+}
+.activ2 img
+{
+width: 500px;
+}
+
+.activ-tall2
+{
+margin-left: 150px;
+}
+
+.activity
+{
+overflow: auto;
+margin-left: 30px;
+}
+
+/*pied de page*/
+.end
+{
+width: 1040px;
+font-size: medium;
+}
+
+.about
+{
+margin-left: 10px;
+margin-right: 100px;
+margin-bottom: 15px;
+}
+
+.our-accomodation
+{
+margin-right: 120px;
+padding-bottom: 30px;
+}
