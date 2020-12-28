@@ -1,0 +1,60 @@
+/*titre*/
+
+h1
+{
+width: 700px;
+margin-left: -20px;
+}
+
+/*navigation*/
+
+.menu-nav
+{
+margin-left: 60px;
+}
+
+/*recherche*/
+
+.search
+{
+margin-top: 50px;
+}
+
+/*Populaires*/
+
+.title-popu
+{
+margin-left: -130px;
+}
+.room_popular
+{
+margin-left: 150px;
+}
+
+/*hébergements*/
+#hebergements
+{
+margin-left: 350px;
+}
+
+.room
+{
+margin-left: 50px;
+}
+
+.more
+{
+margin-left: 100px;
+}
+
+/*Activités*/
+
+#activites
+{
+margin-left: 160px;
+}
+
+.activity
+{
+margin-left: 80px;
+}
