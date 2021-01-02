@@ -2,8 +2,9 @@
 
 h1
 {
-width: 700px;
-margin-left: -20px;
+width: 1000px;
+font-size: 70px;
+margin-left: 80px;
 }
 
 /*navigation*/
@@ -17,44 +18,39 @@ margin-left: 60px;
 
 .search
 {
-margin-top: 50px;
+margin-top: 15px;
 }
 
 /*Populaires*/
 
 .title-popu
 {
-margin-left: -130px;
+margin-left: -100px;
 }
 .room_popular
 {
-margin-left: 150px;
+margin-left: 100px;
 }
 
 /*hébergements*/
 #hebergements
 {
-margin-left: 350px;
-}
-
-.room
-{
-margin-left: 50px;
+margin-left: 250px;
 }
 
 .more
 {
-margin-left: 100px;
+margin-left: 50px;
 }
 
 /*Activités*/
 
 #activites
 {
-margin-left: 160px;
+margin-left: 230px;
 }
 
 .activity
 {
-margin-left: 80px;
+margin-left: 150px;
 }
