@@ -1,10 +1,13 @@
 /* Toutes la page */
-
 *
 {
 font-family: "Raleway", sans-serif;
 }
 
+h3
+{
+font-size: 23px;
+}
 /* logo et navigation*/
 
 header
@@ -146,7 +149,7 @@ padding-top: 5px;
 i[class*="dog"]
 {
 position: absolute;
-left: 658px;
+left: 670px;
 top: -9px;
 padding: 3px 10px;
 font-size: x-large;
@@ -160,7 +163,7 @@ padding-bottom: 10px;
 i[class*="heart"]
 {
 position: absolute;
-left: 455px;
+left: 463px;
 top: -9px;
 padding: 3px 10px;
 font-size: x-large;
@@ -252,7 +255,6 @@ margin-left: 30px;
 position: absolute;
 top: 20px;
 padding-left: 10px;
-color: #0065FC;
 }
 
 .room img
@@ -280,8 +282,8 @@ margin-left: 10px;
 
 .room h4,p
 {
-    margin-top: 2px;
-    margin-bottom: 8px;
+margin-top: 2px;
+margin-bottom: 8px;
 }
 
 
@@ -325,7 +327,7 @@ padding-top: 25px;
 
 .title-popu i
 {
-margin-left: 100px;
+margin-left: 130px;
 }
 
 .room_popular
@@ -350,12 +352,12 @@ margin-right: 20px;
 
 .room_popular h4
 {
-    margin-bottom: 8px;
+margin-bottom: 8px;
 }
 
 .room_popular p
 {
-    margin-bottom: 50px;
+margin-bottom: 50px;
 }
 /*Étoiles des hébergements*/
 
@@ -413,14 +415,12 @@ border-top-right-radius: 20px;
 {
 border: 2px solid #f2f2f2;
 border-radius: 20px;
-box-shadow: 0px 0px 10px #f2f2f2;
 }
 
 .activ1
 {
 position: absolute;
 border: 2px solid #f2f2f2;
-height: 250px;
 left: 350px;
 border-radius: 20px;
 box-shadow: 0px 0px 10px #f2f2f2;
@@ -498,10 +498,15 @@ margin-bottom: 15px;
 .our-accomodation
 {
 margin-right: 150px;
-margin-top: 0px;
+padding-bottom: 30px;
 }
 
+.assistance
+{
+padding-bottom: 30px;
+}
 .end ul li
 {
 list-style-type: none;
+margin-bottom: -5px;
 }
