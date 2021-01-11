@@ -2,6 +2,10 @@ body
 {
 font-size: .8em;
 }
+ #top
+ {
+font-size: 4vw;
+ }
 
 .logo
 {
@@ -23,6 +27,7 @@ position: relative;
 a[href="#"]
 {
 margin-left: 270px;
+margin-right: 35px;
 }
 
 a[href="#hebergements"]
@@ -31,7 +36,7 @@ border-bottom: 5px solid #0065FC;
 padding-bottom: 30px;
 padding-left: 33px;
 padding-right: 40px;
-margin-left: -50px;
+margin-left: -20px;
 }
 
 a[href="#activites"]

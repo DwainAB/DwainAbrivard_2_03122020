@@ -1,0 +1,70 @@
+/*Hébergement à Marseille*/
+
+.accommodation
+{
+width: 57.5vw;
+}
+
+.title-acco
+{
+    font-size: 1.55em;
+}
+
+.room
+{
+    width: 13vw;
+}
+
+.room img
+{
+    width: 13vw;
+}
+
+/*room populaire*/
+
+.popular
+{
+    width: 33.3vw;
+}
+
+.room_popular
+{
+    width: 30vw;
+}
+
+.room_popular img
+{
+    width: 10vw;
+}
+
+/*activite*/
+
+.activity
+{
+    height: 600px;
+}
+.column1, .column2
+{
+margin-left: 0%;
+}
+
+.activ-tall, .activ
+{
+width: 20vw;
+}
+
+.activ img
+{
+max-height: 180px;
+}
+.activ-tall img, .activ img
+{
+    width: 20vw;
+}
+
+/*footer*/
+
+.end
+{
+    justify-content: space-around;
+}

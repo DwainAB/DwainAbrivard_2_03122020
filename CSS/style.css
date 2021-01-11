@@ -10,17 +10,6 @@ width: 100vw;
 overflow-x: hidden;
 }
 
-nav{
-    display: flex;
-}
-nav a:nth-child(3):hover, nav a:nth-child(4):hover{
-    color: #0065FC;
-}
-header a:nth-of-type(4) {
-    text-align: right;
-    font-weight: 600;
-    color: #0065FC;
-}
 /* Toutes la page */
 *
 {
@@ -94,7 +83,6 @@ font-size: 20px;
 .search
 {
 height: 50px;
-width: 285px;
 font-size: large;
 font-weight: bold;
 padding-left: 60px;
