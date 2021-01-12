@@ -1,0 +1,173 @@
+body
+{
+width: auto;
+}
+
+/*logo et navigation*/
+
+#top
+{
+flex-direction: column;
+align-items: center;
+font-size: 20px;
+}
+
+.logo
+{
+width: 150px;
+}
+
+/*titre de la page*/
+
+h1 
+{
+text-align: center;
+}
+
+h2
+{
+text-align: center;
+}
+
+/*Barre de recherche*/
+
+#searchbox
+{
+text-align: center;
+}
+
+.search
+{
+height: 50px;
+font-size: large;
+font-weight: bold;
+padding-left: 60px;
+border: 2px solid #f2f2f2;
+border-top-left-radius: 20px;
+border-bottom-left-radius: 20px;
+outline: none;
+}
+
+#searchbox
+{
+width: -webkit-fill-available;
+}
+
+/*filtre*/
+
+.filter
+{
+margin-left: 50px;
+}
+
+.filter button
+{
+  margin-bottom: 20px;
+}
+
+/*info*/
+
+.info
+{
+text-align: center;
+}
+
+/*milieu de page*/
+
+.middle-page
+{
+flex-wrap: wrap;
+flex-direction: column-reverse;
+max-height: none;
+}
+
+/*Hébergements populaires*/
+
+.title-popu
+{
+height: 30px;
+text-align: center;
+margin-bottom: 0px;
+padding-top: 0px;
+width: -webkit-fill-available;
+}
+
+.title-popu i
+{
+margin-left: 20px;
+}
+
+.sectionroom
+{
+display: flex;
+flex-direction: row;
+overflow: auto;
+border-right: 2px solid #f2f2f2;
+border-left: 2px solid #f2f2f2;
+}
+
+.popular
+{ 
+width: -webkit-fill-available;
+margin-left:30px;
+background-color: white;
+}
+
+.room_popular
+{
+border: 2px solid #f2f2f2;
+border-radius: 20px;
+box-shadow: 0px 0px 10px #f2f2f2;
+}
+
+/*Hébergement à Marseille*/
+
+.title-acco
+{
+text-align: center;
+width: 920px;
+}
+
+.accommodation
+{
+width: -webkit-fill-available;
+padding-left: 30px;
+margin-top: 30px ;
+}
+
+/*Activité*/
+
+#activites
+{
+text-align: center;
+}
+
+.activity
+{
+width: -webkit-fill-available;
+padding-left: 0px;
+margin-left: 30px;
+}
+
+/*pied de page*/
+
+.end
+{
+font-size: medium;
+display: flex;
+flex-wrap: wrap;
+height: auto;
+}
+
+.about
+{
+margin-left: 10px;
+margin-bottom: 15px;
+margin-right: 0px;
+}
+
+.our-accomodation
+{
+margin-right: 120px;
+padding-bottom: 30px;
+}
