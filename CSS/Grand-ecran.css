@@ -18,6 +18,7 @@ font-size: 1.55em;
 .accommodation
 {
 width: 57.5vw;
+height: 850px;
 }
 
 .title-acco
@@ -28,11 +29,13 @@ font-size: 1.55em;
 .room
 {
 width: 13vw;
+height: auto;
 }
 
 .room img
 {
 width: 13vw;
+height: auto;
 }
 
 /*room populaire*/
@@ -40,43 +43,55 @@ width: 13vw;
 .popular
 {
 width: 33.3vw;
+height: 890px;
 }
 
 .room_popular
 {
 width: 30vw;
+height: 200px;
 }
 
 .room_popular img
 {
-width: 10vw;
+width: 189px;
+height: 200px;
 }
 
 /*activite*/
 
+#activites
+{
+margin-top: 250px;
+}
+
 .activity
 {
-height: 600px;
+height: auto;
 }
 
 .column1, .column2
 {
 margin-left: 0%;
+height: auto;
 }
 
 .activ-tall, .activ
 {
 width: 20vw;
+height: auto;
 }
 
 .activ img
 {
 max-height: 180px;
+max-width: ;
 }
 
 .activ-tall img, .activ img
 {
 width: 20vw;
+height: auto;
 }
 
 /*footer*/
